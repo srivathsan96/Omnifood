@@ -445,7 +445,8 @@ blockquote {
 
 blockquote:before {
     content: "\201C";
-    font-size: 500%;
+    font-size: 100%;
+    font-weight: 300;
     display: block;
     position: absolute;
     top: -5px;
